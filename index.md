@@ -1,11 +1,13 @@
-<!DOCTYPE html>
+----
+layout: none
+---
+    <!DOCTYPE html>
 
-
-<html>
+    <html>
 
   {% include head.html %}
 
-  <body>
+     <body>
 
     <div>
 
@@ -99,6 +101,6 @@
 
     
 
-  </body>
+    </body>
 
-</html>
+    </html>
